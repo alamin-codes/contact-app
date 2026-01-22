@@ -21,7 +21,7 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter  basename="/contact-app">
       <div className="p-4">
         <Routes>
 
